@@ -23,25 +23,25 @@
   "devDependencies": {
     "time-grunt": "*",
     "load-grunt-tasks": "*",
-    "grunt-contrib-uglify": "^0.2.1",
-    "grunt-contrib-concat": "^0.3.0",
-    "grunt-contrib-watch": "^0.4.4",
-    "grunt-contrib-copy": "^0.4.1",
-    "grunt-ng-annotate": "^0.2.3",
-    "grunt-shell": "^0.2.2",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-ng-annotate": "latest",
+    "grunt-shell": "latest",
     "grunt-karma": "latest",
     "karma-jasmine": "latest",
-    "grunt-open": "^0.2.2",
-    "grunt-browserify": "^3.1.0"
+    "grunt-open": "latest",
+    "grunt-browserify": "latest"
   },
   "dependencies": {
-    "ecdsa": "^0.6.0",
-    "coinkey": "^1.3.0",
-    "crypto-browserify": "^3.2.8",
-    "karma-chrome-launcher": "^0.1.5",
-    "pbkdf2-sha256": "^1.0.1",
-    "aes": "^0.1.0",
-    "bigi": "^1.3.0",
-    "assert": "^1.1.2"
+    "ecdsa": "latest",
+    "coinkey": "latest",
+    "crypto-browserify": "latest",
+    "karma-chrome-launcher": "latest",
+    "pbkdf2-sha256": "latest",
+    "aes": "latest",
+    "bigi": "latest",
+    "assert": "latest"
   }
 }
